@@ -226,4 +226,15 @@ He usado un asistente de IA para preparar esta tarea: buscar y contrastar fichas
 
 ## Historial de commits
 
-Pendiente. Se incluirá aquí la salida real de `git log --oneline` del repositorio, sin añadir commits que no existan.
+Salida de `git log --oneline` del repositorio hasta antes del commit que añade esta sección (fechas de los commits, hora de España):
+
+```text
+b1b9aa8 Añade PDF del configurador y mapa editable de la UT2   (26/11/2026)
+05ca8e8 Añade capturas y mapa de la UT2                        (26/11/2026)
+229b75b Añade README de la UT2                                 (26/11/2026)
+c12a2ff Añade documento Normas de uso de la IA (DOCX, ODT y PDF)  (25/11/2026, UT1)
+2bf3198 Añade imagen CC BY 2.0 con atribución (Seattle Municipal Archives)  (25/11/2026, UT1)
+562d2fc Añade README de la UT1 (texto preparado con un asistente de IA)     (25/11/2026, UT1)
+```
+
+La UT2 tiene 3 commits, todos del 26/11/2026, más el que añade esta sección. No cumple el mínimo de 8 commits en tres días distintos que pide el enunciado: no he creado commits ni fechas que no existieran.
